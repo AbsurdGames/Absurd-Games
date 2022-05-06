@@ -1,5 +1,5 @@
-- Hello! where are @AbsurdGames!
-- Where are interested un programing in python JS, CSS...
+- Hello! We are @AbsurdGames!
+- Where are interested in programing in python JS, CSS...
 - Contact here --> absurdgamesdev@gmail.com
 
 <!---
